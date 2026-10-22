@@ -1,5 +1,5 @@
 # fullscreendigitalclockforwindows
-copying justabigclock (https://justabigclock.com) for their night time clock except this is a local program.
+copying justabigclock (https://justabigclock.com) for their night time clock except this is a local program. it's a fullscreen digital clock for windows.
 
 - it supports the ISO8601 format (no time zone notation)
 - it's not that resource hungry, about a megabyte of ram and .5% of CPU
