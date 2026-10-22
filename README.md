@@ -4,3 +4,4 @@ copying justabigclock.com for their night time clock except this doesn't drift o
 - it's not that resource hungry, about a megabyte of ram and .5% of CPU
 - config file can be opened by pressing e
 - the window is resizable, but starts full screen
+- default font is atkinson hyperlegible next mono light (https://github.com/googlefonts/atkinson-hyperlegible-next-mono/raw/refs/heads/main/fonts/ttf/AtkinsonHyperlegibleMono-Light.ttf)
