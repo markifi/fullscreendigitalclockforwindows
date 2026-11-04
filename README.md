@@ -9,5 +9,7 @@ copying justabigclock (https://justabigclock.com) for their night time clock exc
 - default font is atkinson hyperlegible next mono light (https://github.com/googlefonts/atkinson-hyperlegible-next-mono/raw/refs/heads/main/fonts/ttf/AtkinsonHyperlegibleMono-Light.ttf)
 - g++ -O3 -Os -flto -s -ffunction-sections -fdata-sections -Wl,--gc-sections -Wl,--strip-all -Wl,--build-id=none fullscreendigitalclockforwindows.cpp -o fullscreendigitalclockforwindows.exe -luser32 -lgdi32
 - https://winlibs.com/#download-release
+<img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/c6f8711c-4396-45c8-8fa6-4e6cbca15603" />
+<img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/4a9e5b0c-abaf-48b5-a64a-aad5d2ae9340" />
 
 doesn't do anything else
