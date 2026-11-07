@@ -11,5 +11,6 @@ copying justabigclock (https://justabigclock.com) for their night time clock exc
 - https://winlibs.com/#download-release
 <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/c6f8711c-4396-45c8-8fa6-4e6cbca15603" />
 <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/4a9e5b0c-abaf-48b5-a64a-aad5d2ae9340" />
+<img width="1440" height="2560" alt="image" src="https://github.com/user-attachments/assets/45e0d948-77c9-4430-b879-6e3f74ac5b13" />
 
 doesn't do anything else
